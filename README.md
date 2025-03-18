@@ -19,8 +19,4 @@ A collaborative repository dedicated to researching, developing, and sharing kno
 
 *Contributing:*
 
-We welcome contributions from researchers, developers, and experts in the field. Please review our (link unavailable) file for guidelines on how to participate.
-
-*License:*
-
-This repository is licensed under LICENSE.
+We welcome contributions from researchers, developers, and experts in the field.
